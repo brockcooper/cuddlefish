@@ -1,6 +1,6 @@
-snowflake_account: 
-snowflake_username: 
-snowflake_password: 
-snowflake_database: 
-snowflake_schema: 
-snowflake_warehouse: 
+snowflake_account: bigsquid
+snowflake_username: chilton
+snowflake_password: Mossback030
+snowflake_database: STITCH_DATABASE
+snowflake_schema: SALESFORCE
+snowflake_warehouse: STITCH_WAREHOUSE

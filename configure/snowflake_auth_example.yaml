@@ -1,0 +1,8 @@
+# Rename or create a new YAML file called domo_auth.yaml for this to work
+
+snowflake_account: 
+snowflake_username: 
+snowflake_password: 
+snowflake_database: 
+snowflake_schema: 
+snowflake_warehouse: 

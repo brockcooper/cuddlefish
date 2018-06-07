@@ -1,9 +1,11 @@
+# Rename or create a new YAML file called domo_auth.yaml for this to work
+
 # Domo client API keys from developer.domo.com
-domo_client_id: c28f1d02-5756-4613-98fd-75620f0d4a9b
-domo_client_secret: 83906d61b5481e5ace67fb01eb12227cf7af03f1619afa3b9ccefbfa06cdedca
+domo_client_id: 
+domo_client_secret: 
 
 # Domo Dataset ID of the Domo to Snowflake Mapping File
 # The mapping file should just be two columns:
 # Column 1) Snowflake Table Name (this will be the name of the table we will create in snowflake. Needs to be 1 word and all lowercase)
 # Column 2) Domo dataset ID (This will be the dataset id of the data that will be inserted into that table)
-domo_to_snowflake_mapping_dataset_id: b50218b1-8080-4a47-b220-d9f94f07a75d
+domo_to_snowflake_mapping_dataset_id: 
