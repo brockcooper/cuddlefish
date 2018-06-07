@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
 .DS_Store
 configure/domo_auth_private.yaml
-configure/snowflake_auth_private.yaml
+configure/snowflake_auth_private.yaml.DS_Store
