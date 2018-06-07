@@ -1,0 +1,9 @@
+# Domo client API keys from developer.domo.com
+domo_client_id: 
+domo_client_secret: 
+
+# Domo Dataset ID of the Domo to Snowflake Mapping File
+# The mapping file should just be two columns:
+# Column 1) Snowflake Table Name (this will be the name of the table we will create in snowflake. Needs to be 1 word and all lowercase)
+# Column 2) Domo dataset ID (This will be the dataset id of the data that will be inserted into that table)
+domo_to_snowflake_mapping_dataset_id: 
